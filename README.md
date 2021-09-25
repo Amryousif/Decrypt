@@ -12,14 +12,11 @@ pip install request
 
 pkg install git
 
-git clone https://github.com/Amryousif/PuB_Twit
+git clone https://github.com/Amryousif/Decrypt
 
 ls
 
-cd PuB_Twit
 
-ls
-
-chmod +x PuBg_Hack.py
-
-python PuBg_Hack.py
+cd Decrypt
+chmod 777 Decrypt.py
+python3 Decrypt.py
